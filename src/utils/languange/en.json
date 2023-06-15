@@ -1,0 +1,28 @@
+{
+  "translation": {
+    "timeline": "Timeline",
+    "setting": "Setting ",
+    "post": "Type what you think",
+    "post-button": "Post",
+    "post-empty": "Can not be empty",
+    "post-success": "You have successfully created a post",
+    "please-wait": "Please Wait ...",
+    "success": "Success",
+    "choose-language": "Choose Language",
+    "change-indonesia": "Successfully changed the language to Indonesian",
+    "change-english": "Successfully changed the language to English",
+    "menu": "Menu",
+    "delete": "Delete",
+    "delete-post": "Delete Post?",
+    "delete-undone": "Delete post cannot be undone",
+    "delete-block": "You are not the owner of this post",
+    "delete-success": "Successfully deleted post",
+    "yes-delete": "Yes, Delete",
+    "reply": "Reply",
+    "reply-to": "Replying to",
+    "reply-placeholder": "Type your reply",
+    "reply-success": "You have successfully replied to the post",
+    "detail": "Detail",
+    "comment": "Comment"
+  }
+}

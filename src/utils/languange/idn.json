@@ -1,0 +1,28 @@
+{
+  "translation": {
+    "timeline": "Linimasa",
+    "setting": "Pengaturan ",
+    "post": "Ketik apa yang anda pikirkan",
+    "post-button": "Kirim",
+    "post-empty": "Tidak boleh kosong",
+    "post-success": "Anda telah berhasil membuat posting",
+    "please-wait": "Harap Tunggu ...",
+    "success": "Berhasil",
+    "choose-language": "Pilih Bahasa",
+    "change-indonesia": "Berhasil mengubah bahasa menjadi Indonesia",
+    "change-english": "Berhasil mengubah bahasa menjadi Inggris",
+    "menu": "Menu",
+    "delete": "Hapus",
+    "delete-post": "Hapus Postingan?",
+    "delete-undone": "Hapus postingan tidak dapat dibatalkan",
+    "delete-block": "Anda bukan pemilik postingan ini",
+    "delete-success": "Berhasil menghapus postingan",
+    "yes-delete": "Ya, Hapus",
+    "reply": "Balas",
+    "reply-to": "Membalas ke",
+    "reply-placeholder": "Ketik balasanmu",
+    "reply-success": "Anda telah berhasil mereply postingan",
+    "detail": "Detil",
+    "comment": "Komentar"
+  }
+}
