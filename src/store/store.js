@@ -3,12 +3,13 @@ import logger from 'redux-logger'
 import thunk from 'redux-thunk'
 import AsyncStorage from '@react-native-async-storage/async-storage'
 import {persistReducer, persistStore} from 'redux-persist'
+import {NODE_ENV} from '@env'
 
 import timeline from './timeline/reducer'
 
 export let Middlewares
 
-if (process.env.NODE_ENV === 'production') {
+if (NODE_ENV === 'production') {
   Middlewares = applyMiddleware(thunk)
 } else {
   Middlewares = applyMiddleware(thunk, logger)

@@ -1,4 +1,5 @@
-export const BASE_URL_ENDPOINT =
-  'https://648851f40e2469c038fd77f6.mockapi.io/api/postr'
+import {API_URL} from '@env'
+
+export const BASE_URL_ENDPOINT = API_URL
 export const LANGUAGE = 'language'
 export const USERNAME = 'username'
